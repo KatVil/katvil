@@ -3,9 +3,13 @@
 🔭 I’m currently working on CFD moodeling in 3D bioprinting
 🌱 I’m currently learning Machine Learning and Frontend Development
 💬 Ask me about 3D bioprinting, math modeling and developing innovations
-📫 How to reach me:[@Katherine_VM](http://t-do.ru/Katherine_VM "Telegram")
 ⚡ Fun fact: sometimes I think that my cat could be noted as a co-author of my PhD theses
 
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="www.linkedin.com/in/katherine-vilinski-mazur" alt="LinkedIn Badge"/>
+  </a>
+</div>
 <!--
 **KatVil/katvil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
