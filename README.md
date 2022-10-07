@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on CFD moodeling in 3D bioprinting
+- 🌱 I’m currently learning Frontend Development and Machine Learning
+
 <!--
 **KatVil/katvil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
