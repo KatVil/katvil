@@ -7,9 +7,9 @@
 </h2>
 <div>
   <ul>
-    <li>🔭 I’m currently working on CFD moodeling in 3D bioprinting</li>
+    <li>🔭 I’m currently working on mathematical & CFD moodeling for 3D bioprinting</li>
     <li>🌱 I’m currently learning Machine Learning and Frontend Development</li>
-    <li>💬 Ask me about 3D bioprinting, math modeling and developing innovations</li>
+    <li>💬  Ask me about 3D bioprinting, math modeling, startup developing</li>
     <li>:smirk_cat: Fun fact: sometimes I think that my cat Basil could be noted as a co-author of my PhD theses</li>
     <li>📫 How to reach me: @Katherine_VM (Telegram) </li>
   </ul>
