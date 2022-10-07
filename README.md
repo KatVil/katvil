@@ -2,12 +2,14 @@
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<ul>
-<li>🔭 I’m currently working on CFD moodeling in 3D bioprinting</li>
-<li>🌱 I’m currently learning Machine Learning and Frontend Development</li>
-<li>💬 Ask me about 3D bioprinting, math modeling and developing innovations</li>
-<li>⚡ Fun fact: sometimes I think that my cat could be noted as a co-author of my PhD theses</li>
-</ul>
+<div>
+  <ul>
+    <li>🔭 I’m currently working on CFD moodeling in 3D bioprinting</li>
+    <li>🌱 I’m currently learning Machine Learning and Frontend Development</li>
+    <li>💬 Ask me about 3D bioprinting, math modeling and developing innovations</li>
+    <li>⚡ Fun fact: sometimes I think that my cat could be noted as a co-author of my PhD theses</li>
+  </ul>
+ /div>
 <div id="badges">
   <a href="www.linkedin.com/in/katherine-vilinski-mazur">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
