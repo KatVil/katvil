@@ -1,9 +1,10 @@
 ### Hi there 👋
-
--🔭 I’m currently working on CFD moodeling in 3D bioprinting
--🌱 I’m currently learning Machine Learning and Frontend Development
--💬 Ask me about 3D bioprinting, math modeling and developing innovations
--⚡ Fun fact: sometimes I think that my cat could be noted as a co-author of my PhD theses
+<ul>
+<li>🔭 I’m currently working on CFD moodeling in 3D bioprinting</li>
+<li>🌱 I’m currently learning Machine Learning and Frontend Development</li>
+<li>💬 Ask me about 3D bioprinting, math modeling and developing innovations</li>
+<li>⚡ Fun fact: sometimes I think that my cat could be noted as a co-author of my PhD theses</li>
+</ul>
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=katvil&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=katvil&langs_count=5&theme=tokyonight)]()
