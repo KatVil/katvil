@@ -26,9 +26,10 @@
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=katvil&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=katvil&langs_count=5&theme=tokyonight)]()
 
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif">
 <!--
 **KatVil/katvil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+https://proglib.io/p/kak-kreativno-oformit-profil-na-github-chtoby-on-privlekal-vnimanie-2022-03-17
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
