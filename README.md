@@ -10,6 +10,7 @@
     <li>⚡ Fun fact: sometimes I think that my cat could be noted as a co-author of my PhD theses</li>
   </ul>
   <br>
+  <br>
 <div id="badges">
   <a href="www.linkedin.com/in/katherine-vilinski-mazur">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
