@@ -3,14 +3,14 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <h2>
- PhD student in Mathematics & Mechanics, diving into IT :ocean:
+ PhD student in Mathematics & Mechanics, diving into IT :ocean: :octocat:
 </h2>
 <div>
   <ul>
     <li>🔭 I’m currently working on CFD moodeling in 3D bioprinting</li>
     <li>🌱 I’m currently learning Machine Learning and Frontend Development</li>
-    <li>💬 Ask me about 3D bioprinting, math modeling and developing innovations</li>
-    <li>⚡ Fun fact: sometimes I think that my cat could be noted as a co-author of my PhD theses</li>
+    <li>💬 Ask me about 3D bioprinting, math modeling and startup developing</li>
+    <li>:smirk_cat: Fun fact: sometimes I think that my cat Baыil could be noted as a co-author of my PhD theses</li>
     <li>📫 How to reach me: @Katherine_VM (Telegram) </li>
   </ul>
   <br>
