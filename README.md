@@ -1,16 +1,16 @@
 <h1>
   Hey there, I'm Katherine N. Vilinski-Mazur
-   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <h2>
- PhD student in Mathematics & Mechanics, diving into IT :ocean: :octocat:
+ PhD student in Mathematics & Mechanics, diving into IT
 </h2>
 <div>
   <ul>
     <li>🔭 I’m currently working on CFD moodeling in 3D bioprinting</li>
     <li>🌱 I’m currently learning Machine Learning and Frontend Development</li>
-    <li>💬 Ask me about 3D bioprinting, math modeling and startup developing</li>
-    <li>:smirk_cat: Fun fact: sometimes I think that my cat Baыil could be noted as a co-author of my PhD theses</li>
+    <li>💬 Ask me about 3D bioprinting, math modeling and developing innovations</li>
+    <li>⚡ Fun fact: sometimes I think that my cat could be noted as a co-author of my PhD theses</li>
     <li>📫 How to reach me: @Katherine_VM (Telegram) </li>
   </ul>
   <h3>The latest papers:</h3>
@@ -28,8 +28,9 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
  
