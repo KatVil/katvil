@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on CFD moodeling in 3D bioprinting
-- 🌱 I’m currently learning Machine Learning and Frontend Development
-- 💬 Ask me about 3D bioprinting, math modeling and developing innovations
-- 📫 How to reach me: @Katherine_VM in Telegram
-- ⚡ Fun fact: sometimes I think that my cat will be my co-author for PhD theses
+🔭 I’m currently working on CFD moodeling in 3D bioprinting
+🌱 I’m currently learning Machine Learning and Frontend Development
+💬 Ask me about 3D bioprinting, math modeling and developing innovations
+📫 How to reach me:[@Katherine_VM](http://t-do.ru/Katherine_VM "Telegram")
+⚡ Fun fact: sometimes I think that my cat could be noted as a co-author of my PhD theses
 
 <!--
 **KatVil/katvil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
