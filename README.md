@@ -21,7 +21,6 @@
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=katvil&count_private=true&theme=tokyonight&showicons=true)]()
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=katvil&langs_count=5&theme=tokyonight)]()
-<div>
 <!--
 **KatVil/katvil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
