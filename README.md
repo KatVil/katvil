@@ -1,7 +1,10 @@
 <h1>
-  Hey there
+  Hey there, I'm Katherine N. Vilinski-Mazur
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+<h2>
+ PhD student in Mathematics & Mechanics, diving into IT
+</h2>
 <div>
   <ul>
     <li>🔭 I’m currently working on CFD moodeling in 3D bioprinting</li>
@@ -11,6 +14,9 @@
     <li>📫 How to reach me: @Katherine_VM (Telegram) </li>
   </ul>
   <br>
+  <h3>The latest papers:</h3>
+  <li>A review of software tools using for 3D bioprinting: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7557344/</li>
+  <li>Hypervolume geometric modeling of tissue spheroids fusion with Function Representation (FRep) approach: https://www.scientific.net/MSF.1046.119</li>
 <div id="badges">
   <a href="www.linkedin.com/in/katherine-vilinski-mazur">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
