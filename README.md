@@ -9,11 +9,13 @@
     <li>💬 Ask me about 3D bioprinting, math modeling and developing innovations</li>
     <li>⚡ Fun fact: sometimes I think that my cat could be noted as a co-author of my PhD theses</li>
   </ul>
+  <br>
 <div id="badges">
   <a href="www.linkedin.com/in/katherine-vilinski-mazur">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+   <br>
  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
